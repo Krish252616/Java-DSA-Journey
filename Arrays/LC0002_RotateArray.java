@@ -2,9 +2,6 @@
 Problem : Rotate Array
 LeetCode : 2
 Difficulty : Medium
-
-Time Complexity : O(1)
-Space Complexity : O(n)
 */
 public class LC0002_RotateArray {
     public static void main(String[] args) {
