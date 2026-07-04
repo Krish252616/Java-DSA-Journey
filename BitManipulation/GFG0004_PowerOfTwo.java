@@ -1,3 +1,5 @@
+package  BitManipulation;
+
 class Solution{
     int n;
     public boolean display(int n){
